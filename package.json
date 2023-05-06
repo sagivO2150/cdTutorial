@@ -1,0 +1,29 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "firstTest",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://github.com/sagivO2150/cdTutorial.git"
+  },
+  "keywords": [
+    "justAtest"
+  ],
+  "author": "sagiv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagivO2150/cdTutorial/issues"
+  },
+  "homepage": "https://github.com/sagivO2150/cdTutorial#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3"
+  }
+}
